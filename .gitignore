@@ -4,3 +4,16 @@ __pycache__/
 .env
 database.db
 .vscode/
+
+# Environnement Python
+__pycache__/
+*.pyc
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
