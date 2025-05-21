@@ -13,3 +13,5 @@ typing-extensions==4.13.2
 uvicorn==0.33.0
 fastapi
 uvicorn[standard]
+sqlalchemy
+databases
